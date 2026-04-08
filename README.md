@@ -1,0 +1,1 @@
+# online-clinic-and-diagnostic-platform-db-design
